@@ -1,0 +1,481 @@
+.hukum-kekekalan-energi-mekanik {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 var(--padding-md);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.body-hukum-kekekalan-energi-mekanik {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: 250px;
+  height: 100%;
+  width: 75%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.title-hukum-kekekalan-energi {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+}
+
+.apersepsi {
+  position: relative;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-bottom: 30px;
+
+}
+
+
+.title-apersepsi {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 2px solid ;
+  background-color: #2596BE;
+}
+
+
+.title-apersepsi span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.body-apersepsi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body-apersepsi video {
+  width: 100%;
+}
+
+.Narasi-5-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-bottom: 30px;
+  background-color: #19ff6e;
+}
+
+.Narasi-5-1 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.head-5-1 {
+  position: relative;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+
+}
+
+.title-5-1-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 2px solid ;
+  background-color: #2596BE;
+}
+
+.title-5-1-2 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  border: 2px solid ;
+  margin: 25px;
+  background-color: #FFE194;
+}
+
+.title-5-1-1 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.title-5-1-2 span {
+  margin: 5px;
+  font-weight: 600;
+}
+
+.body-5-1-1 {
+  margin: 15px;
+  font-size: 17px;
+}
+
+.body-5-1-2 {
+  margin: 15px;
+  font-size: 17px;
+}
+
+.head-5-1 img {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  width: 35%;
+  margin: 30px;
+}
+
+.body-5-img {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 30px;
+}
+
+.Narasi-5-2 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-top: 30px;
+  background-color: #19ff6e;
+}
+
+.Narasi-5-2 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.head-5-2 {
+  position: relative;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-top: 30px;
+}
+
+.title-5-2-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 2px solid ;
+  background-color: #2596BE;
+}
+
+.title-5-2-1 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.body-5-2-1 {
+  display: flex;
+  border: 3px solid;
+  justify-content: center;
+  margin: 30px;
+  flex-direction: column;
+}
+
+.sub-title-5-1 {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid;
+  background-color: #2596BE;
+  width: 100%;
+}
+
+.sub-title-5-1 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 17px;
+  color: white;
+}
+
+.body-5-2-1-video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body-5-2-1-video video {
+  width: 100%;
+}
+
+
+.body-5-2-2 {
+  display: flex;
+  border: 3px solid;
+  justify-content: center;
+  margin: 30px;
+  flex-direction: column;
+}
+
+.sub-title-5-2 {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid;
+  background-color: #2596BE;
+  width: 100%;
+}
+
+.sub-title-5-2 span{
+  display: flex;
+  margin: 5px;
+  font-weight: 600;
+  font-size: 17px;
+  color: white;
+}
+
+.body-5-2-2-img {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.body-5-2-2-img img {
+  width: 20%;
+  margin: 30px;
+}
+
+
+.body-5-2-3 {
+  display: flex;
+  border: 3px solid;
+  justify-content: center;
+  margin: 30px;
+  flex-direction: column;
+}
+
+.Narasi-5-3 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-top: 30px;
+  background-color: #19ff6e;
+}
+
+.Narasi-5-3 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.head-5-3 {
+  margin-top: 30px;
+  position: relative;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+}
+
+.title-5-3 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 2px solid ;
+  background-color: #2596BE;
+}
+
+.title-5-3 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.body-5-3 {
+  margin: 10px;
+  font-size: 17px;
+}
+
+.rumus-hukum-mekanik-border {
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+  border: 2px solid #0b2948;
+  border-radius: 5px;
+  width: 230px;
+}
+
+.rumus-hukum-mekanik-border span {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  
+}
+
+.rumus-hukum-mekanik {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.rumus-hukum-mekanik-2 {
+  display: flex;
+
+
+  flex-direction: row;
+  font-size: 17px;
+  margin: 15px;
+}
+
+.rumus-hukum-mekanik-3 {
+  display: flex;
+  align-items:center;
+  font-size: 11px;
+  margin-top: 0px;
+  margin-left: 5px;
+  height: 20px;
+}
+
+.materi-hukum-img img {
+  width: 30%;
+}
+
+.Narasi-5-4 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+  margin-top: 30px;
+  background-color: #19ff6e;
+}
+
+.Narasi-5-4 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+
+.head-5-4 {
+  margin-top: 30px;
+  position: relative;
+  border: 3px solid #0b2948;
+  width: 80%;
+  left: 10%;
+}
+
+.title-5-4 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 2px solid ;
+  background-color: #2596BE;
+}
+
+.title-5-4 span{
+  margin: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+
+.body-5-4 {
+  margin: 15px;
+  font-size: 17px;
+}
+
+.body-5-4 textarea {
+  margin-left: 20px;
+  height: 100px;
+  width: 95%;
+  resize: none;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
+
+.change-page {
+  
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: relative;
+  width: 80%;
+  justify-content: center;
+}
+
+.change-page-midle {
+  display: flex;
+  
+}
+
+.button-latihan-3 {
+  border-radius: var(--br-md);
+  border: none;
+  background-color: #E57C23;
+  cursor: pointer;
+  width: 300px;
+  height: 40px;
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-latihan-3 span {
+  margin: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.petunjuk-pengerjaan {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  
+  border: 2px solid ;
+  margin: 25px;
+  background-color: #FFE194;
+}
+
+.petunjuk-pengerjaan span {
+  margin: 5px;
+  font-weight: 600;
+}
+.petunjuk-pengerjaan p {
+  margin: 5px;
+}

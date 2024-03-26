@@ -1,0 +1,229 @@
+.header-siswa {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #4F709C;
+}
+
+.header-siswa h2 {
+    margin: 5px;
+    font-weight: 600;
+    font-size: var(--font-size-xl);
+    color: white;
+}
+
+.body-siswa {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    left: 2%;
+    width: 96%;
+    border: 2px solid #0b2948;
+    margin-top: 10px;
+}
+
+.button-add {
+    margin-top: 30px;
+    margin-left: 60px;
+    border-radius: 4px;
+    border: none;
+    background-color: #2596BE;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-add span {
+    margin: 5px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+.button-add-data {
+    border-radius: 4px;
+    border: none;
+    background-color: #2596BE;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-add-data span {
+    margin: 5px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+.table-siswa {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 17px;
+}
+
+.table-siswa table {
+    width: 90%;
+}
+
+.table-siswa th {
+    text-align: center;
+}
+
+.table-siswa table,tr,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table-siswa td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.data-siswa {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 15px;
+    width: 100%;
+}
+
+.data-siswa span {
+    font-size: 17px;
+}
+
+.modal {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+  }
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    height: 40px;
+    background-color: #113E6C;
+    color: white;
+  }
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px 5px;
+  }
+.actions {
+    width: 100%;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+  }
+.close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid #cfcece;
+  }
+
+  .table-aksi {
+    width: 150px;
+  }
+
+  .table-no {
+    width: 30px;
+  }
+
+.table-kelas {
+    width: 130px;
+}
+
+  .aksi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .button-view {
+    border: none;
+    border-radius: 4px;
+    width: 50px;
+    height: 30px;
+    background-color: #FFD93D;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .button-view span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button-delete {
+    border: none;
+    border-radius: 4px;
+    width: 50px;
+    height: 30px;
+    background-color: #F55050;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .button-delete span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-add-siswa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-add-siswa input {
+    width: 250px;
+    margin-bottom: 10px;
+  }
+
+  .download {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+  }
+
+  .button-edit {
+    border: none;
+    border-radius: 4px;
+    width: 120px;
+    height: 40px;
+    background-color: #2596BE;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  .button-edit span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+  }

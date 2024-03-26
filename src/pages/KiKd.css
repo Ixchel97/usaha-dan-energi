@@ -1,0 +1,144 @@
+.KiKd{
+    background-color: aqua;
+    height: 100vh;
+}
+
+.nav-kikd {
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    height: 3rem;
+}
+
+
+.kikd-title-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kikd-title-button button {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 4px;
+    border: none;
+    background-color: #2596BE;
+    cursor: pointer;
+    width: 160px;
+    height: 55px;
+}
+
+.kikd-title-button span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.kikd-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 21px;
+}
+
+.kikd-des {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 1000px;
+    background-color: chartreuse;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.kikd-des h3 {
+    margin-left: 10px;
+}
+
+.kikd-des tr,td {
+    border : none;
+}
+
+.kikd-no-table {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+.indikator-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 21px;
+}
+
+.indikator-des {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 1000px;
+    background-color: chartreuse;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.indikator-des tr,td {
+    border : none;
+}
+
+.indikator-no-table {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tujuan-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 21px;
+}
+
+.tujuan-des {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 1000px;
+    background-color: chartreuse;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.tujuan-des h3 {
+    margin-left: 10px;
+}
+
+.tujuan-des tr,td {
+    border : none;
+}
+
+.tujuan-no-table {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 2px;
+}
+
+.beranda {
+  display: flex;
+  color: var(--color-black);
+  cursor: pointer;
+  margin-left: 5px;
+  font-size: 17px;
+  
+}
